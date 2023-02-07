@@ -24,5 +24,5 @@ if (x<0) KolOtr++;-
 }
 cout<<"Kolichestvo polozitelnix = "<<KolPol<<endl;
 cout<<"Kolichestvo otricatelnix = "<<KolOtr;
-
+cout<<"Дима чмо";
 }
